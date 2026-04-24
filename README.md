@@ -1,8 +1,12 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg)](https://musheer.vercel.app/)
+[<img width="1983" height="793" alt="banner_v3" src="https://github.com/user-attachments/assets/fb1d4afb-949b-4917-a747-80e546eb39b9" />](https://musheer.vercel.app/)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Deep+Learning+%7C+Computer+Vision;Moving+towards+NLP+%26+LLMs;Learn+%E2%86%92+Build+%E2%86%92+Improve" />
+</p>
 
 # Hi 👋, I'm Musheer Khan
 
-🚀 **Machine Learning Engineer | Computer Vision | Former Front-End Developer**
+🚀 **Machine Learning Engineer | Computer Vision | Deep learning | Former Front-End Developer**
 
 ---
 
